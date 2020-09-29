@@ -1,0 +1,5 @@
+cypress/screenshots
+*.iml
+.idea
+
+node_modules
